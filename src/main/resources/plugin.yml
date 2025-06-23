@@ -1,0 +1,4 @@
+name: SatanicCore
+version: '${project.version}'
+main: org.mrdarkimc.sataniccore.SatanicCore
+api-version: '1.21'
