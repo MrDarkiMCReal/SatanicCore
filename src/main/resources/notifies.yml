@@ -1,0 +1,15 @@
+notifies:
+  eco_get_money_server:
+    bossbar:
+      text: "Вы получили деняк"
+    actionbar:
+      text: "Вы получили деняк"
+    chat:
+      text:
+        - " "
+        - "Вы получили деняк"
+        - " "
+    title:
+      text-title: ""
+      text-subtitle: ""
+    empty: []
